@@ -1,0 +1,54 @@
+#background{
+	background-color: #01140D;
+	width:1000px;
+	height: 1000px;
+}
+
+#navbar{
+	position: fixed;
+	z-index: 2;
+	color: red;
+	top:700px;
+	left:300px;
+    margin: 0;
+    padding: 0;
+	display: inline-block;
+	list-style-type: none;
+	float: left;
+}
+
+#first{
+	padding: 10px;
+	width:1000px;
+	height: 800px;
+	font-family: sans-serif;
+}
+
+#sector1{
+	
+	background-color: black;
+
+	margin:0 auto;
+}
+#sector2{
+	text-align: center;
+	color: white; 
+	width: 600px;
+	height: 300px;
+	margin: 0 auto;
+}
+#pic{
+	width:400px;
+	height: 550px;
+	margin: auto;
+	
+}
+#text{
+	width:500px;
+	height:300px;
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#2191D2
